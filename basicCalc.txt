@@ -1,0 +1,41 @@
+using System;
+/// static+ non static
+public class Calculator
+{
+    public static  double Add(double op1,double op2)
+    {
+        return op1 + op2;
+    }
+    public static double Substract(double op1, double op2)
+    {
+        return op1 - op2;
+    }
+    public static double Multiply(double op1, double op2)
+    {
+        return op1 * op2;
+    }
+    public double Devide(double op1, double op2)
+    {
+        if(op2 == 0)
+        {
+            throw new Exception("Cant devide by 0");
+        }
+        return op1  / op2;
+    }
+
+
+
+}
+
+class Pro
+{
+    static void Main()
+    {
+        Calculator newCalc = new Calculator();
+        double Addition = Calculator.Add(2, 3);
+        double Division = newCalc.Devide(4, 2);
+
+    }
+
+
+}

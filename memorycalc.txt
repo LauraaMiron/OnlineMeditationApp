@@ -1,0 +1,70 @@
+using System;
+/// static+ non static
+public class Calculator
+{
+
+    private double memory;
+
+    public Calculator()
+    {
+        memory = 0;
+    }
+
+        
+    public double Add(double op1)
+    {
+        memory += op1;
+        return memory;
+    }
+    public double Substract(double op1)
+    {
+        memory -= op1;
+        return memory;
+    }
+    public double Multiply( double op2)
+    {
+        memory *= op2;
+        return memory;
+
+    }
+    public double Devide(double op1)
+    {
+        if(op1 == 0)
+        {
+            throw new Exception("Cant devide by 0");
+        }
+        memory /= op1;
+        return memory;
+    }
+
+    public double RecallMemory()
+    {
+        return memory;
+    }
+
+    public void ClearMemory()
+    {
+        memory = 0;
+    }
+
+}
+
+class Pro
+{
+    static void Main()
+    {
+        Calculator newCalc = new Calculator();
+        double Addition = newCalc.Add(8);
+        double Division = newCalc.Devide(4);
+
+        Console.WriteLine($"Add+ devide: {Division}");
+
+        double memoryValue = newCalc.RecallMemory();
+        Console.WriteLine($"Memory {memoryValue}");
+
+
+
+    }
+
+
+}
