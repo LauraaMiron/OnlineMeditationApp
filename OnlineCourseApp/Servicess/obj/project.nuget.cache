@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GuuvnysVY0TEqMZYfeFuG7cF9xddO/xm0/u+IxdNwTHLIL8oZ2TkYuL2BfV2gikOoaTLQCtBzp7SU8bUinz9Tg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\Servicess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Laura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

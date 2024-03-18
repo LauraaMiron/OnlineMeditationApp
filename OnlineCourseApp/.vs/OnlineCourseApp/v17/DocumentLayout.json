@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\servicess\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|solutionrelative:servicess\\blogpostservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6B1177-6F1B-42F3-9625-08A8C130A079}|Services\\ServicesInterface.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\services\\interfaces\\iblogpostentityserviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F6B1177-6F1B-42F3-9625-08A8C130A079}|Services\\ServicesInterface.csproj|solutionrelative:services\\interfaces\\iblogpostentityserviceinterfaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01E9FD5-66E2-4AC1-A121-0E4D1BE92A89}|Domain\\Domain.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C01E9FD5-66E2-4AC1-A121-0E4D1BE92A89}|Domain\\Domain.csproj|solutionrelative:domain\\blogpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\data\\repositories\\iblogpostentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|solutionrelative:data\\repositories\\iblogpostentityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F6B1177-6F1B-42F3-9625-08A8C130A079}|Services\\ServicesInterface.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\services\\servicesinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F6B1177-6F1B-42F3-9625-08A8C130A079}|Services\\ServicesInterface.csproj|solutionrelative:services\\servicesinterface.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\servicess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|solutionrelative:servicess\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\data\\entity\\blogpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A92B7A-660D-4BBF-A56B-61229D3E0714}|Data\\Data.csproj|solutionrelative:data\\entity\\blogpostentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4AF54-AE64-4FFB-89C7-96DA94744ABD}|Api\\Api.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C4AF54-AE64-4FFB-89C7-96DA94744ABD}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\servicess\\servicess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C4081B1-759E-4B6A-AE2F-AB463648AC1A}|Servicess\\Servicess.csproj|solutionrelative:servicess\\servicess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C4AF54-AE64-4FFB-89C7-96DA94744ABD}|Api\\Api.csproj|c:\\users\\laura\\source\\repos\\onlinecourseapp\\api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35C4AF54-AE64-4FFB-89C7-96DA94744ABD}|Api\\Api.csproj|solutionrelative:api\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBlogPostEntityServiceInterfaces.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Services\\Interfaces\\IBlogPostEntityServiceInterfaces.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IBlogPostEntityServiceInterfaces.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Services\\Interfaces\\IBlogPostEntityServiceInterfaces.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IBlogPostEntityServiceInterfaces.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:54:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostService.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\BlogPostService.cs",
+              "RelativeDocumentMoniker": "Servicess\\BlogPostService.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\BlogPostService.cs",
+              "RelativeToolTip": "Servicess\\BlogPostService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:59:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPost.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Domain\\BlogPost.cs",
+              "RelativeDocumentMoniker": "Domain\\BlogPost.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Domain\\BlogPost.cs",
+              "RelativeToolTip": "Domain\\BlogPost.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwA4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:34:51.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBlogPostEntityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Repositories\\IBlogPostEntityRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\IBlogPostEntityRepository.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Repositories\\IBlogPostEntityRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\IBlogPostEntityRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:43:53.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-14T21:34:58.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServicesInterface",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Services\\ServicesInterface.csproj",
+              "RelativeDocumentMoniker": "Services\\ServicesInterface.csproj",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Services\\ServicesInterface.csproj",
+              "RelativeToolTip": "Services\\ServicesInterface.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T13:09:58.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Servicess\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\DependencyInjection.cs",
+              "RelativeToolTip": "Servicess\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:54:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogPostEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Entity\\BlogPostEntity.cs",
+              "RelativeDocumentMoniker": "Data\\Entity\\BlogPostEntity.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Data\\Entity\\BlogPostEntity.cs",
+              "RelativeToolTip": "Data\\Entity\\BlogPostEntity.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T20:42:07.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T12:16:55.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Servicess",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\Servicess.csproj",
+              "RelativeDocumentMoniker": "Servicess\\Servicess.csproj",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Servicess\\Servicess.csproj",
+              "RelativeToolTip": "Servicess\\Servicess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-18T13:09:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Api\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\Laura\\source\\repos\\OnlineCourseApp\\Api\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "Api\\Controllers\\BlogPostController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T11:56:41.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
