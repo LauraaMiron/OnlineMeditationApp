@@ -1,0 +1,17 @@
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\ServicesInterface.deps.json
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\ServicesInterface.dll
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\ServicesInterface.pdb
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\Data.dll
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\Domain.dll
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\Data.pdb
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\bin\Debug\net8.0\Domain.pdb
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.csproj.AssemblyReference.cache
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.AssemblyInfoInputs.cache
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.AssemblyInfo.cs
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.csproj.CoreCompileInputs.cache
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\Services.8139C1F2.Up2Date
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.dll
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\refint\ServicesInterface.dll
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ServicesInterface.pdb
+C:\Users\Laura\source\repos\OnlineCourseApp\Services\obj\Debug\net8.0\ref\ServicesInterface.dll
